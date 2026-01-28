@@ -5,7 +5,7 @@ The goal of this task is to understand how to **combine data from multiple table
 using different types of SQL JOINs such as **INNER JOIN, LEFT JOIN, RIGHT JOIN,
 and FULL JOIN (simulated in MySQL)**.
 
-## 🛠 Tools Used
+##  Tools Used
 - **Primary:** MySQL Workbench  
 - **Alternatives:** PostgreSQL, BigQuery Sandbox
 - 
