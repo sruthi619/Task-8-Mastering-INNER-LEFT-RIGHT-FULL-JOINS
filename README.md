@@ -58,5 +58,3 @@ Stores employee records.
 - Fetches all employees and all departments, matched or not
 
 
-## 🧾 SQL File
-All JOIN queries are included in the SQL file:
